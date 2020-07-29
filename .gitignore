@@ -6,3 +6,5 @@ Thumbs.db
 .vscode/
 *.csv
 package.json
+hello.py
+Example_Notebook.ipynb

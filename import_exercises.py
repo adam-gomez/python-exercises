@@ -233,7 +233,7 @@ print(cleaned_list_of_balances)
 # In[25]:
 
 
-# Now lets get the average balance by summing these float values and dividing them by the total number of values
+# Now lets get the total balance by summing these float values
 total_user_balances = 0
 for balance in cleaned_list_of_balances:
     total_user_balances += balance
